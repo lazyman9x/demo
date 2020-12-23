@@ -1,0 +1,167 @@
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/demo/server/v2/api v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/api
+## explicit
+github.com/demo/server/v2/api
+# github.com/demo/server/v2/auth v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/auth
+## explicit
+github.com/demo/server/v2/auth
+# github.com/demo/server/v2/auth/password v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/auth/password
+## explicit
+github.com/demo/server/v2/auth/password
+# github.com/demo/server/v2/config v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/config
+## explicit
+github.com/demo/server/v2/config
+# github.com/demo/server/v2/database v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/database
+## explicit
+github.com/demo/server/v2/database
+# github.com/demo/server/v2/mode v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/mode
+## explicit
+github.com/demo/server/v2/mode
+# github.com/demo/server/v2/model v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/model
+## explicit
+github.com/demo/server/v2/model
+# github.com/demo/server/v2/router v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/router
+## explicit
+github.com/demo/server/v2/router
+# github.com/demo/server/v2/runner v0.0.0-00010101000000-000000000000 => /Users/vietdh/demo/runner
+## explicit
+github.com/demo/server/v2/runner
+# github.com/gin-contrib/cors v1.3.1
+github.com/gin-contrib/cors
+# github.com/gin-contrib/gzip v0.0.1
+## explicit
+github.com/gin-contrib/gzip
+# github.com/gin-contrib/sse v0.1.0
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.6.3
+## explicit
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/bytesconv
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/go-playground/locales v0.13.0
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.17.0
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator/v10 v10.2.0
+github.com/go-playground/validator/v10
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/go-yaml/yaml v2.1.0+incompatible
+github.com/go-yaml/yaml
+# github.com/gobuffalo/envy v1.9.0
+github.com/gobuffalo/envy
+# github.com/gobuffalo/logger v1.0.3
+github.com/gobuffalo/logger
+# github.com/gobuffalo/packd v1.0.0
+github.com/gobuffalo/packd
+github.com/gobuffalo/packd/internal/takeon/github.com/markbates/errx
+# github.com/gobuffalo/packr/v2 v2.7.1
+## explicit
+github.com/gobuffalo/packr/v2
+github.com/gobuffalo/packr/v2/file
+github.com/gobuffalo/packr/v2/file/resolver
+github.com/gobuffalo/packr/v2/file/resolver/encoding/hex
+github.com/gobuffalo/packr/v2/internal/takeon/github.com/karrick/godirwalk
+github.com/gobuffalo/packr/v2/internal/takeon/github.com/markbates/errx
+github.com/gobuffalo/packr/v2/internal/takeon/github.com/markbates/oncer
+github.com/gobuffalo/packr/v2/internal/takeon/github.com/markbates/safe
+github.com/gobuffalo/packr/v2/jam/parser
+github.com/gobuffalo/packr/v2/plog
+# github.com/golang/protobuf v1.4.1
+github.com/golang/protobuf/proto
+# github.com/gotify/configor v1.0.2
+github.com/gotify/configor
+# github.com/jinzhu/gorm v1.9.16
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/mysql
+github.com/jinzhu/gorm/dialects/postgres
+github.com/jinzhu/gorm/dialects/sqlite
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/joho/godotenv v1.3.0
+github.com/joho/godotenv
+# github.com/json-iterator/go v1.1.9
+github.com/json-iterator/go
+# github.com/konsorten/go-windows-terminal-sequences v1.0.2
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/leodido/go-urn v1.2.0
+github.com/leodido/go-urn
+# github.com/lib/pq v1.5.2
+github.com/lib/pq
+github.com/lib/pq/hstore
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mattn/go-isatty v0.0.12
+github.com/mattn/go-isatty
+# github.com/mattn/go-sqlite3 v2.0.3+incompatible
+github.com/mattn/go-sqlite3
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+github.com/modern-go/reflect2
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/rogpeppe/go-internal v1.5.2
+github.com/rogpeppe/go-internal/modfile
+github.com/rogpeppe/go-internal/module
+github.com/rogpeppe/go-internal/semver
+# github.com/sirupsen/logrus v1.4.2
+github.com/sirupsen/logrus
+# github.com/ugorji/go/codec v1.1.7
+github.com/ugorji/go/codec
+# golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
+## explicit
+# golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+## explicit
+# google.golang.org/protobuf v1.22.0
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/fieldnum
+google.golang.org/protobuf/internal/fieldsort
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genname
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/mapsort
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
+# github.com/demo/server/v2/api => /Users/vietdh/demo/api
+# github.com/demo/server/v2/model => /Users/vietdh/demo/model
+# github.com/demo/server/v2/runner => /Users/vietdh/demo/runner
+# github.com/demo/server/v2/config => /Users/vietdh/demo/config
+# github.com/demo/server/v2/mode => /Users/vietdh/demo/mode
+# github.com/demo/server/v2/router => /Users/vietdh/demo/router
+# github.com/demo/server/v2/database => /Users/vietdh/demo/database
+# github.com/demo/server/v2/auth => /Users/vietdh/demo/auth
+# github.com/demo/server/v2/auth/password => /Users/vietdh/demo/auth/password
