@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/demo/server/v1/mode"
+	"github.com/lazyman9x/demo/v1/mode"
 	"github.com/gotify/configor"
 )
 

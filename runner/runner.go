@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/lazyman9x/demo/v2/config"
+	"github.com/lazyman9x/demo/v1/config"
 	"github.com/gin-gonic/gin"
 )
 

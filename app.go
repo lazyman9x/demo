@@ -3,12 +3,12 @@ package main
 import (
 	"fmt"
 
-	"github.com/demo/server/v2/config"
-	"github.com/demo/server/v2/database"
-	"github.com/demo/server/v2/mode"
-	"github.com/demo/server/v2/model"
-	"github.com/demo/server/v2/router"
-	"github.com/demo/server/v2/runner"
+	"github.com/lazyman9x/demo/v1/config"
+	"github.com/lazyman9x/demo/v1/database"
+	"github.com/lazyman9x/demo/v1/mode"
+	"github.com/lazyman9x/demo/v1/model"
+	"github.com/lazyman9x/demo/v1/router"
+	"github.com/lazyman9x/demo/v1/runner"
 )
 
 var (

@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/demo/server/v1/mode"
+	"github.com/lazyman9x/demo/v1/mode"
 	"github.com/stretchr/testify/assert"
 )
 
