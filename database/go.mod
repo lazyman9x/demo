@@ -1,4 +1,4 @@
-module github.com/demo/server/v2/database
+module github.com/lazyman9x/demo/v1/database
 
 go 1.15
 

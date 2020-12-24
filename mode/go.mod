@@ -1,8 +1,7 @@
-module github.com/demo/server/v2/mode
+module github.com/lazyman9x/demo/v1/mode
 
 go 1.15
 
 require (
 	github.com/gin-gonic/gin v1.6.3
-	github.com/stretchr/testify v1.6.1
 )

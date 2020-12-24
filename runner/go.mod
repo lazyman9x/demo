@@ -1,4 +1,4 @@
-module github.com/demo/server/v2/runner
+module github.com/lazyman9x/demo/v1/runner
 
 go 1.15
 

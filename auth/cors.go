@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/demo/server/v2/config"
-	"github.com/demo/server/v2/mode"
+	"github.com/demo/server/v1/config"
+	"github.com/demo/server/v1/mode"
 	"github.com/gin-contrib/cors"
 )
 

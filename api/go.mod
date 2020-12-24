@@ -1,4 +1,4 @@
-module github.com/demo/server/v2/api
+module github.com/lazyman9x/demo/v1/api
 
 go 1.15
 

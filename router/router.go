@@ -1,10 +1,10 @@
 package router
 
 import (
-	"github.com/demo/server/v2/api"
-	"github.com/demo/server/v2/config"
-	"github.com/demo/server/v2/database"
-	"github.com/demo/server/v2/model"
+	"github.com/lazyman9x/demo/v2/api"
+	"github.com/lazyman9x/demo/v2/config"
+	"github.com/lazyman9x/demo/v2/database"
+	"github.com/lazyman9x/demo/v2/model"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,4 +1,4 @@
-module github.com/demo/server/v2/auth/password
+module github.com/lazyman9x/demo/v1/auth/password
 
 go 1.14
 

@@ -3,8 +3,8 @@ package api
 import (
 	"errors"
 
-	"github.com/demo/server/v2/auth/password"
-	"github.com/demo/server/v2/model"
+	"github.com/lazyman9x/demo/v1/auth/password"
+	"github.com/lazyman9x/demo/v1/model"
 	"github.com/gin-gonic/gin"
 )
 

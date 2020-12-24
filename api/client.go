@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/demo/server/v2/auth"
-	"github.com/demo/server/v2/model"
+	"github.com/lazyman9x/demo/v1/auth"
+	"github.com/lazyman9x/demo/v1/model"
 	"github.com/gin-gonic/gin"
 )
 

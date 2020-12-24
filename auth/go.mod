@@ -1,4 +1,4 @@
-module github.com/demo/server/v2/auth
+module github.com/lazyman9x/demo/v1/auth
 
 go 1.15
 

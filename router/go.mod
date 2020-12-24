@@ -1,4 +1,4 @@
-module github.com/demo/server/v2/router
+module github.com/lazyman9x/demo/v1/router
 
 go 1.14
 
